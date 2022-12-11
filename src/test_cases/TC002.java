@@ -4,5 +4,5 @@ public class TC002 {
     //test case2
     // writing smoke tests
 
-    //screenshot in falue
+    //screenshot in failure
 }
